@@ -1,6 +1,6 @@
 # location
 
-Platforme de location de voiture
+Platforme web de location de voiture
 
 Base de données: MySQL
 
